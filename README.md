@@ -29,11 +29,6 @@ Das ist kein Zufall – das ist eine bewusste Designentscheidung:
 
 ---
 
-## 📸 Screenshot
-
-> *(Screenshot hier einfügen)*
-
----
 
 ## ✨ Features
 
