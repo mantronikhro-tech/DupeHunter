@@ -88,6 +88,7 @@ Das ist kein Zufall – das ist eine bewusste Designentscheidung:
 | Paket | Wozu | Installation |
 |---|---|---|
 | `Pillow` | App-Icon im Info-Dialog | `pip install pillow` |
+| `ImageTk`| Systempaket für ImageTk | `sudo apt install python3-pil.imagetk`|
 
 > Ohne Pillow läuft DupeHunter vollständig – nur das Icon im Info-Dialog wird nicht angezeigt.
 > Beim ersten Start erscheint ein freundlicher Hinweis mit kopierbarem Installationsbefehl.
