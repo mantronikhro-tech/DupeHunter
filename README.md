@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dupehunter.png" width="200" alt="DupeHunter Logo">
+</p>
+
 # 🎯 DupeHunter
 
 > Scannt Datenträger nach Installationsdateien und Dokumenten, erkennt Duplikate per Name und Hash-Prüfung – für Windows & Linux.
