@@ -110,7 +110,7 @@ cd DupeHunter
 pip install pillow
 
 # Starten
-python DupeHunter_v6.0_final.py
+python3 DupeHunter.py
 ```
 
 Kein Setup, keine Installation, keine weiteren Abhängigkeiten – einfach starten.
